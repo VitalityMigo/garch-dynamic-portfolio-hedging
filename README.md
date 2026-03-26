@@ -8,7 +8,7 @@ The methodology follows the minimum-variance hedge ratio method:
 
 $$h^* = \rho_{P,S} \cdot \frac{\sigma_P}{\sigma_S}$$
 
-The required SPY short position is then derived from the portfolio's rolling beta and the target beta level. The project is exposed through a Streamlit dashboard.
+The required SPY short position is then derived from the portfolio's rolling beta and the target beta level. The project is deployed through a Streamlit dashboard. To access the hosted app, click on the [this link](https://portfolio-hedging.streamlit.app).
 
 <br>
 
